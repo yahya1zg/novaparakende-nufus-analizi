@@ -1,5 +1,0 @@
-{
-  "status": "PASS",
-  "filter_combinations_checked": 2574,
-  "method": "JavaScript application calculation compared with independent raw-Excel Decimal aggregation; DOM stub only, not browser visual QA."
-}
