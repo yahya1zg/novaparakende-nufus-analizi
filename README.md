@@ -228,7 +228,7 @@ py -3.12 -m venv .venv
 | Oğuzhan Narmanli | `030423023` | [Winchester0785](https://github.com/Winchester0785) | Veri toplama ve dış kaynak |
 | Hamza Uzçirci | `030423031` | [huzcirci](https://github.com/huzcirci) | Dashboard |
 | Muhammed Yahya Yıldırım | `030422026` | [yahya1z](https://github.com/yahya1z) | dbt-staging |
-| Eren Keskin | `030423047` | — | Rapor teslim |
+| Eren Keskin | `030423047` | erenks1638 | Rapor teslim |
 
 ## Kaynakça ve akademik şeffaflık
 
