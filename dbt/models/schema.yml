@@ -1,0 +1,44 @@
+version: 2
+models:
+  - name: stg_satis
+    description: Kaynak kayıtları, tip dönüşümü ve boşluk temizliği. Kayıt silinmez.
+    columns:
+      - name: siparis_id
+        description: Mevcut kaynakta benzersiz sipariş kimliği.
+        data_tests: [not_null, unique]
+      - name: tarih
+        data_tests: [not_null]
+      - name: musteri_id
+        data_tests: [not_null]
+      - name: kanal
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Online', 'Mağaza']
+  - name: stg_nufus
+    description: Dış kaynak; il başına 2024 yıl sonu nüfusu.
+    columns:
+      - name: sehir
+        data_tests: [unique, not_null]
+      - name: nufus
+        data_tests: [not_null]
+  - name: dim_sehir
+    description: İl-yıl tane düzeyi. Bu sürüm yalnızca 2024 içerir. Çok yıllı sürümde bileşik anahtar gerekir.
+    columns:
+      - name: sehir
+        data_tests: [unique, not_null]
+  - name: fct_satis
+    description: Sipariş tane düzeyinde ciro ve brüt kâr. Maliyet birim maliyet olarak yorumlanmıştır.
+    columns:
+      - name: siparis_id
+        data_tests: [not_null, unique]
+      - name: sehir
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_sehir')
+                field: sehir
+  - name: mart_sehir_performans
+    description: İl-yıl toplamları ve nüfusa göre normalize göstergeler. Endeksin karşılaştırma evreni 10 ildir.
+  - name: mart_aylik_satis
+    description: Ay-il-kanal-kategori tane düzeyinde dashboard özeti.
