@@ -1,0 +1,778 @@
+ay,sehir,kanal,kategori,net_satis,brut_kar,siparis_sayisi
+2024-10-01,Ankara,Online,Giyim,6770.00,3679.07,2
+2024-10-01,Bursa,Online,Elektronik,11868.50,3423.91,4
+2024-08-01,İstanbul,Mağaza,Ev & Yaşam,14708.00,5503.14,6
+2024-02-01,Adana,Mağaza,Kozmetik,532.00,307.20,1
+2024-12-01,Trabzon,Mağaza,Giyim,6810.00,3770.13,2
+2024-06-01,İstanbul,Online,Elektronik,63583.00,17354.27,14
+2024-10-01,Kocaeli,Online,Elektronik,12360.00,3644.32,1
+2024-03-01,İstanbul,Online,Elektronik,84078.50,23448.69,13
+2024-11-01,Antalya,Online,Kitap & Ofis,288.00,94.18,1
+2024-03-01,Kocaeli,Online,Ev & Yaşam,2130.50,786.44,2
+2024-10-01,Gaziantep,Online,Giyim,10770.00,5507.21,3
+2024-07-01,İzmir,Online,Giyim,13932.00,7188.93,4
+2024-07-01,Konya,Mağaza,Giyim,836.00,434.20,1
+2024-02-01,Kocaeli,Online,Kitap & Ofis,570.00,265.90,1
+2024-09-01,İstanbul,Online,Elektronik,77153.00,20637.16,12
+2024-03-01,İstanbul,Online,Ev & Yaşam,14705.00,5764.36,3
+2024-03-01,İstanbul,Online,Giyim,24337.50,13210.78,9
+2024-05-01,Gaziantep,Mağaza,Elektronik,2560.00,808.78,1
+2024-12-01,Ankara,Online,Ev & Yaşam,16103.50,6410.60,6
+2024-08-01,İstanbul,Online,Kozmetik,11287.50,6766.03,7
+2024-07-01,Ankara,Mağaza,Giyim,6015.00,3078.83,4
+2024-03-01,İstanbul,Mağaza,Kozmetik,520.00,318.52,1
+2024-11-01,Kocaeli,Online,Kitap & Ofis,352.00,146.81,2
+2024-11-01,İstanbul,Mağaza,Kozmetik,4395.00,2098.50,3
+2024-10-01,İstanbul,Mağaza,Giyim,22207.00,12219.27,8
+2024-12-01,Ankara,Online,Giyim,850.00,453.44,1
+2024-12-01,Trabzon,Mağaza,Elektronik,44148.00,12558.49,4
+2024-04-01,İstanbul,Online,Elektronik,87804.50,25387.59,10
+2024-04-01,Trabzon,Online,Giyim,590.00,340.18,1
+2024-10-01,Bursa,Online,Giyim,4720.00,2595.62,2
+2024-08-01,Trabzon,Mağaza,Elektronik,7749.00,1437.27,1
+2024-07-01,Trabzon,Mağaza,Giyim,1650.00,897.66,2
+2024-10-01,İstanbul,Mağaza,Elektronik,94162.50,27783.34,12
+2024-04-01,Ankara,Mağaza,Kozmetik,1430.00,878.18,2
+2024-09-01,Ankara,Online,Kitap & Ofis,480.00,213.16,2
+2024-04-01,Konya,Mağaza,Kozmetik,1740.00,1015.86,1
+2024-08-01,Gaziantep,Mağaza,Giyim,2205.00,1148.25,1
+2024-11-01,Adana,Mağaza,Giyim,11862.00,5119.18,5
+2024-06-01,İstanbul,Mağaza,Kozmetik,7472.00,4383.37,6
+2024-06-01,İstanbul,Online,Giyim,14798.00,8125.00,7
+2024-06-01,İstanbul,Online,Ev & Yaşam,15765.00,5876.06,4
+2024-06-01,İstanbul,Mağaza,Kitap & Ofis,1707.00,766.38,3
+2024-11-01,Kocaeli,Online,Kozmetik,2580.00,784.05,1
+2024-04-01,İstanbul,Online,Giyim,7652.00,4110.52,6
+2024-04-01,İstanbul,Online,Ev & Yaşam,10864.00,3811.18,4
+2024-08-01,İstanbul,Mağaza,Giyim,17137.50,9210.89,4
+2024-09-01,Ankara,Mağaza,Kozmetik,2241.00,1306.95,1
+2024-04-01,Konya,Online,Elektronik,19284.50,4970.81,4
+2024-07-01,İzmir,Online,Elektronik,5700.00,1830.05,2
+2024-11-01,Ankara,Mağaza,Elektronik,7380.00,185.70,4
+2024-06-01,Antalya,Online,Giyim,1000.00,539.01,1
+2024-04-01,Trabzon,Online,Ev & Yaşam,684.00,195.78,1
+2024-05-01,Antalya,Mağaza,Giyim,2830.00,1614.84,2
+2024-04-01,Bursa,Online,Elektronik,24980.00,7677.32,2
+2024-05-01,Gaziantep,Online,Kitap & Ofis,1250.00,592.90,1
+2024-03-01,Kocaeli,Online,Giyim,4090.00,2260.66,3
+2024-01-01,Bursa,Online,Ev & Yaşam,4370.00,1742.10,1
+2024-04-01,İzmir,Online,Elektronik,20238.00,6015.03,4
+2024-01-01,Bursa,Online,Elektronik,9120.00,2895.93,1
+2024-12-01,Antalya,Online,Kozmetik,5889.50,3498.06,4
+2024-07-01,Trabzon,Mağaza,Elektronik,14783.00,3850.56,2
+2024-03-01,Ankara,Online,Giyim,7570.00,3849.01,4
+2024-10-01,Ankara,Online,Ev & Yaşam,14856.00,5672.91,6
+2024-09-01,Adana,Online,Giyim,7540.00,4042.74,4
+2024-04-01,İzmir,Online,Ev & Yaşam,9330.50,3505.98,5
+2024-08-01,Gaziantep,Online,Kozmetik,3439.00,2001.07,3
+2024-03-01,Ankara,Online,Elektronik,43076.50,13423.97,6
+2024-08-01,İstanbul,Mağaza,Elektronik,20709.00,5942.20,4
+2024-10-01,Gaziantep,Mağaza,Giyim,2664.00,1359.92,2
+2024-09-01,Gaziantep,Mağaza,Kitap & Ofis,850.00,388.15,1
+2024-02-01,Ankara,Mağaza,Giyim,1550.00,786.42,2
+2024-07-01,Ankara,Mağaza,Ev & Yaşam,31862.00,12331.80,6
+2024-11-01,Trabzon,Mağaza,Elektronik,9288.00,1439.49,1
+2024-10-01,Adana,Mağaza,Elektronik,16820.00,4695.89,2
+2024-09-01,İstanbul,Online,Ev & Yaşam,16580.00,6650.13,5
+2024-10-01,İstanbul,Mağaza,Ev & Yaşam,35465.00,13018.01,9
+2024-09-01,İstanbul,Online,Giyim,16249.50,8718.49,6
+2024-09-01,Gaziantep,Online,Elektronik,13262.00,4003.13,5
+2024-12-01,Bursa,Online,Kitap & Ofis,320.00,148.16,1
+2024-09-01,Bursa,Online,Elektronik,25350.00,7030.08,3
+2024-05-01,Bursa,Mağaza,Kitap & Ofis,360.00,167.04,1
+2024-11-01,Ankara,Mağaza,Ev & Yaşam,1208.00,311.23,1
+2024-10-01,Ankara,Online,Elektronik,31139.50,7578.61,6
+2024-03-01,Trabzon,Online,Giyim,5151.00,2552.75,2
+2024-09-01,Kocaeli,Online,Giyim,646.00,358.96,1
+2024-04-01,Adana,Mağaza,Elektronik,24345.00,7124.82,2
+2024-11-01,Trabzon,Mağaza,Ev & Yaşam,1400.00,109.25,1
+2024-12-01,Ankara,Online,Elektronik,50410.00,15312.95,6
+2024-11-01,Bursa,Mağaza,Kitap & Ofis,192.00,67.89,1
+2024-04-01,Adana,Online,Giyim,13450.00,7187.80,3
+2024-09-01,Adana,Mağaza,Kitap & Ofis,350.00,158.49,1
+2024-02-01,Ankara,Mağaza,Elektronik,13080.00,4326.96,1
+2024-11-01,Adana,Online,Kozmetik,7444.00,3676.08,4
+2024-09-01,Kocaeli,Mağaza,Elektronik,17840.00,5586.14,3
+2024-05-01,Bursa,Mağaza,Kozmetik,3240.00,1977.60,1
+2024-08-01,Kocaeli,Mağaza,Ev & Yaşam,1440.00,556.30,1
+2024-11-01,Adana,Mağaza,Ev & Yaşam,7401.00,1101.53,2
+2024-04-01,Adana,Online,Ev & Yaşam,10960.00,4001.82,2
+2024-10-01,Gaziantep,Online,Ev & Yaşam,14523.00,5099.37,4
+2024-11-01,Konya,Mağaza,Kozmetik,2565.00,861.10,2
+2024-07-01,Konya,Mağaza,Ev & Yaşam,7380.00,2404.35,1
+2024-10-01,Gaziantep,Mağaza,Elektronik,12060.00,3258.52,3
+2024-03-01,Trabzon,Online,Elektronik,15526.50,4070.68,3
+2024-06-01,İzmir,Online,Kitap & Ofis,280.00,127.56,1
+2024-02-01,Trabzon,Mağaza,Ev & Yaşam,6954.00,2787.24,3
+2024-03-01,Gaziantep,Online,Giyim,1800.00,872.20,1
+2024-04-01,Bursa,Online,Ev & Yaşam,7880.00,2859.07,2
+2024-01-01,Adana,Mağaza,Giyim,5950.00,3291.70,1
+2024-06-01,Adana,Online,Ev & Yaşam,16212.50,5971.73,3
+2024-12-01,Bursa,Mağaza,Kozmetik,2670.00,1633.32,2
+2024-05-01,İzmir,Online,Elektronik,25401.00,7316.98,4
+2024-10-01,Adana,Online,Kozmetik,2100.00,1284.70,1
+2024-11-01,Ankara,Mağaza,Giyim,13020.00,4745.14,8
+2024-11-01,Kocaeli,Mağaza,Kozmetik,2052.00,1147.20,1
+2024-07-01,Antalya,Mağaza,Ev & Yaşam,2020.00,858.30,1
+2024-08-01,İstanbul,Online,Kitap & Ofis,1490.00,663.00,2
+2024-03-01,Kocaeli,Online,Elektronik,1700.00,564.73,1
+2024-06-01,İzmir,Online,Kozmetik,845.50,493.95,1
+2024-06-01,Antalya,Online,Ev & Yaşam,1720.00,687.03,1
+2024-02-01,Trabzon,Mağaza,Elektronik,5980.00,1827.38,1
+2024-01-01,Kocaeli,Mağaza,Kitap & Ofis,1000.00,471.60,1
+2024-06-01,Trabzon,Mağaza,Giyim,2640.00,1490.90,1
+2024-10-01,Gaziantep,Online,Elektronik,6320.00,1767.72,1
+2024-07-01,Antalya,Mağaza,Giyim,12245.00,6586.77,2
+2024-06-01,Adana,Online,Elektronik,1444.00,437.96,1
+2024-04-01,Adana,Online,Elektronik,7481.50,2480.86,2
+2024-02-01,Konya,Online,Elektronik,2920.00,786.94,1
+2024-06-01,Trabzon,Mağaza,Ev & Yaşam,15475.50,5711.92,2
+2024-09-01,İzmir,Online,Kozmetik,1377.50,840.29,2
+2024-10-01,Bursa,Online,Ev & Yaşam,1520.00,559.66,1
+2024-08-01,Antalya,Online,Kozmetik,1950.00,1157.55,1
+2024-11-01,İstanbul,Mağaza,Kitap & Ofis,232.00,71.26,1
+2024-03-01,Trabzon,Online,Ev & Yaşam,1482.00,549.18,1
+2024-09-01,Kocaeli,Online,Elektronik,11340.00,2909.24,1
+2024-08-01,Gaziantep,Online,Kitap & Ofis,304.00,136.66,1
+2024-06-01,Adana,Online,Giyim,3825.00,2004.58,2
+2024-01-01,Trabzon,Mağaza,Kozmetik,285.00,172.91,1
+2024-05-01,Gaziantep,Online,Kozmetik,3030.00,1779.12,2
+2024-11-01,Bursa,Mağaza,Kozmetik,1152.00,602.50,1
+2024-04-01,Kocaeli,Mağaza,Elektronik,6760.00,2210.10,1
+2024-02-01,İzmir,Online,Kozmetik,270.00,158.04,1
+2024-01-01,Antalya,Online,Kozmetik,433.50,239.25,1
+2024-05-01,İzmir,Online,Ev & Yaşam,7740.00,2615.92,3
+2024-02-01,Ankara,Mağaza,Ev & Yaşam,10050.00,3600.80,1
+2024-12-01,Adana,Online,Kitap & Ofis,320.00,150.46,1
+2024-09-01,Gaziantep,Online,Giyim,3111.00,1539.06,1
+2024-12-01,Antalya,Online,Kitap & Ofis,947.50,445.91,2
+2024-05-01,Kocaeli,Mağaza,Kitap & Ofis,648.00,281.12,1
+2024-02-01,Konya,Online,Giyim,2071.00,1126.66,1
+2024-10-01,Antalya,Mağaza,Kitap & Ofis,320.00,148.16,1
+2024-07-01,Antalya,Online,Kozmetik,2960.00,1834.88,1
+2024-09-01,Ankara,Online,Kozmetik,3444.00,2035.65,3
+2024-03-01,Ankara,Online,Ev & Yaşam,11132.50,2939.94,2
+2024-07-01,İzmir,Online,Ev & Yaşam,5580.00,2010.63,2
+2024-05-01,Kocaeli,Mağaza,Kozmetik,1989.00,1076.19,1
+2024-04-01,Trabzon,Online,Elektronik,11960.00,3862.72,1
+2024-08-01,Gaziantep,Mağaza,Elektronik,7200.00,2446.71,1
+2024-09-01,Ankara,Mağaza,Kitap & Ofis,1040.00,504.44,1
+2024-10-01,Kocaeli,Mağaza,Kitap & Ofis,1300.00,587.20,1
+2024-03-01,Gaziantep,Online,Ev & Yaşam,3223.00,1273.19,2
+2024-07-01,Kocaeli,Mağaza,Ev & Yaşam,3900.00,1620.04,1
+2024-06-01,Bursa,Mağaza,Kozmetik,2960.00,1752.60,1
+2024-01-01,Ankara,Online,Kozmetik,3040.00,1768.24,1
+2024-05-01,Antalya,Mağaza,Elektronik,23195.00,6878.73,2
+2024-09-01,Bursa,Online,Giyim,4437.00,2217.83,2
+2024-04-01,Konya,Online,Ev & Yaşam,252.00,71.96,1
+2024-02-01,İstanbul,Mağaza,Kitap & Ofis,85.50,37.68,1
+2024-09-01,Adana,Online,Ev & Yaşam,1080.00,418.76,1
+2024-03-01,Gaziantep,Online,Elektronik,3249.00,908.58,1
+2024-09-01,Trabzon,Mağaza,Kozmetik,3280.00,2057.04,1
+2024-10-01,Antalya,Mağaza,Kozmetik,3250.00,1952.80,2
+2024-04-01,Ankara,Online,Kozmetik,954.00,534.80,1
+2024-09-01,Gaziantep,Online,Ev & Yaşam,5100.00,2099.37,1
+2024-12-01,Adana,Mağaza,Kitap & Ofis,680.00,331.88,1
+2024-01-01,İstanbul,Online,Kozmetik,2200.00,1363.08,1
+2024-02-01,Trabzon,Online,Giyim,2380.00,1315.88,1
+2024-01-01,Adana,Mağaza,Elektronik,4020.00,1253.46,1
+2024-09-01,Bursa,Online,Ev & Yaşam,380.00,150.39,1
+2024-03-01,Gaziantep,Mağaza,Kozmetik,120.00,69.87,1
+2024-05-01,İzmir,Online,Giyim,2980.00,1632.22,1
+2024-09-01,Antalya,Mağaza,Kozmetik,1890.00,1038.66,1
+2024-01-01,Adana,Online,Kitap & Ofis,204.00,68.32,1
+2024-06-01,Antalya,Online,Elektronik,7552.50,1936.35,1
+2024-04-01,Kocaeli,Mağaza,Ev & Yaşam,5080.00,2126.60,1
+2024-09-01,İstanbul,Online,Kitap & Ofis,1730.00,777.04,3
+2024-09-01,İstanbul,Online,Kozmetik,4480.50,2635.24,6
+2024-10-01,İstanbul,Mağaza,Kozmetik,8037.50,4663.28,4
+2024-05-01,İzmir,Online,Kozmetik,3150.00,1935.16,3
+2024-12-01,Trabzon,Mağaza,Kitap & Ofis,712.50,329.25,1
+2024-11-01,İstanbul,Mağaza,Giyim,7625.00,2555.60,4
+2024-03-01,Gaziantep,Mağaza,Elektronik,18100.00,6022.26,3
+2024-12-01,Bursa,Online,Elektronik,29830.50,8188.80,5
+2024-08-01,İstanbul,Mağaza,Kozmetik,2484.00,1426.23,2
+2024-01-01,Ankara,Online,Ev & Yaşam,4120.00,1656.63,2
+2024-12-01,Kocaeli,Online,Giyim,5970.00,3474.24,2
+2024-10-01,Ankara,Mağaza,Ev & Yaşam,15287.00,5380.85,4
+2024-08-01,Konya,Mağaza,Giyim,6127.00,3216.91,2
+2024-10-01,Adana,Mağaza,Kozmetik,4930.00,3092.41,3
+2024-06-01,Kocaeli,Mağaza,Giyim,7837.50,4202.85,1
+2024-03-01,İstanbul,Online,Kitap & Ofis,772.50,303.19,4
+2024-06-01,İzmir,Mağaza,Elektronik,16080.00,5440.90,2
+2024-06-01,İstanbul,Online,Kozmetik,8771.00,5170.51,7
+2024-12-01,Ankara,Online,Kozmetik,11500.50,6689.34,11
+2024-11-01,İstanbul,Mağaza,Ev & Yaşam,17906.00,4014.84,5
+2024-04-01,Ankara,Online,Giyim,14950.00,8279.87,6
+2024-11-01,Adana,Online,Elektronik,17299.00,-21.57,4
+2024-08-01,İstanbul,Online,Elektronik,29730.00,9201.44,6
+2024-11-01,Kocaeli,Online,Elektronik,20053.00,3005.78,4
+2024-09-01,Gaziantep,Mağaza,Ev & Yaşam,2080.00,877.14,1
+2024-09-01,Trabzon,Mağaza,Ev & Yaşam,3360.00,1280.82,1
+2024-07-01,Antalya,Online,Ev & Yaşam,12808.00,4222.28,2
+2024-05-01,Bursa,Mağaza,Giyim,11980.00,6768.60,4
+2024-06-01,İstanbul,Mağaza,Ev & Yaşam,18456.00,6217.41,5
+2024-06-01,Ankara,Online,Elektronik,30248.50,9033.17,5
+2024-09-01,Ankara,Online,Ev & Yaşam,4160.00,1611.02,3
+2024-09-01,İzmir,Online,Ev & Yaşam,13984.00,5382.77,3
+2024-09-01,Antalya,Mağaza,Elektronik,14540.00,4923.01,2
+2024-04-01,Ankara,Mağaza,Ev & Yaşam,3890.00,1642.51,2
+2024-09-01,Ankara,Online,Elektronik,33471.00,9535.18,7
+2024-08-01,Bursa,Mağaza,Ev & Yaşam,963.00,317.85,1
+2024-11-01,Antalya,Online,Ev & Yaşam,14120.00,3681.27,3
+2024-09-01,İzmir,Online,Elektronik,20424.00,5931.84,5
+2024-04-01,Ankara,Mağaza,Elektronik,22779.50,6075.88,3
+2024-02-01,İstanbul,Mağaza,Elektronik,32062.00,8749.25,7
+2024-05-01,Antalya,Mağaza,Kozmetik,1092.50,623.90,1
+2024-06-01,İstanbul,Mağaza,Elektronik,38749.00,11166.44,6
+2024-10-01,Ankara,Mağaza,Elektronik,14279.00,3865.60,3
+2024-10-01,Adana,Online,Ev & Yaşam,6170.00,2531.36,2
+2024-08-01,Antalya,Online,Giyim,7780.00,4262.33,3
+2024-10-01,Kocaeli,Online,Kozmetik,972.00,574.50,1
+2024-03-01,Ankara,Mağaza,Elektronik,18676.50,5145.91,3
+2024-03-01,Ankara,Online,Kozmetik,494.00,277.44,1
+2024-08-01,İstanbul,Online,Ev & Yaşam,36244.00,13667.12,7
+2024-11-01,İstanbul,Mağaza,Elektronik,34997.00,3509.68,6
+2024-05-01,Kocaeli,Mağaza,Giyim,5624.00,2872.36,1
+2024-03-01,Gaziantep,Online,Kozmetik,3724.50,2119.50,2
+2024-12-01,Adana,Online,Elektronik,9476.00,2374.12,2
+2024-03-01,İstanbul,Mağaza,Ev & Yaşam,7600.00,2744.90,1
+2024-06-01,İstanbul,Mağaza,Giyim,9527.50,5061.48,2
+2024-12-01,Ankara,Online,Kitap & Ofis,3720.00,1684.69,6
+2024-11-01,Kocaeli,Online,Ev & Yaşam,1179.00,417.22,1
+2024-03-01,İstanbul,Online,Kozmetik,6728.00,4059.56,4
+2024-04-01,Adana,Mağaza,Kozmetik,1026.00,606.82,1
+2024-09-01,Ankara,Mağaza,Elektronik,24680.00,7949.88,5
+2024-12-01,Antalya,Online,Giyim,12860.00,6841.11,3
+2024-04-01,Antalya,Mağaza,Ev & Yaşam,4000.00,1428.05,1
+2024-07-01,Gaziantep,Mağaza,Elektronik,17480.00,4351.90,1
+2024-03-01,İstanbul,Mağaza,Giyim,13102.00,7381.55,5
+2024-10-01,Adana,Online,Elektronik,42870.50,11375.05,6
+2024-10-01,Adana,Online,Giyim,7985.00,4376.97,2
+2024-08-01,İstanbul,Online,Giyim,21633.50,11365.69,10
+2024-02-01,İstanbul,Mağaza,Giyim,11135.00,6058.82,6
+2024-08-01,Trabzon,Mağaza,Kozmetik,2263.00,1361.87,2
+2024-11-01,Konya,Mağaza,Ev & Yaşam,648.00,182.34,1
+2024-03-01,Trabzon,Mağaza,Elektronik,23010.00,7562.77,2
+2024-11-01,Antalya,Online,Giyim,4176.00,1656.09,2
+2024-08-01,Antalya,Online,Elektronik,12180.00,3207.20,2
+2024-09-01,Antalya,Mağaza,Ev & Yaşam,8370.00,2906.55,1
+2024-10-01,Kocaeli,Mağaza,Giyim,3330.00,1826.16,1
+2024-10-01,Gaziantep,Mağaza,Kozmetik,4500.00,2661.22,2
+2024-06-01,Ankara,Online,Ev & Yaşam,3400.00,1450.05,1
+2024-04-01,Ankara,Online,Elektronik,29565.00,8465.59,5
+2024-09-01,Antalya,Mağaza,Giyim,2310.00,1252.60,2
+2024-12-01,Bursa,Online,Giyim,8205.00,4423.99,5
+2024-09-01,Ankara,Mağaza,Giyim,7797.50,4274.56,3
+2024-06-01,Ankara,Online,Giyim,12640.00,6994.46,3
+2024-06-01,İzmir,Online,Ev & Yaşam,12919.00,4593.16,3
+2024-12-01,Gaziantep,Mağaza,Ev & Yaşam,4780.00,1966.84,1
+2024-04-01,Ankara,Mağaza,Giyim,4740.50,2561.74,3
+2024-02-01,İzmir,Online,Elektronik,25971.00,7664.12,4
+2024-05-01,Gaziantep,Online,Elektronik,8010.00,2338.14,1
+2024-07-01,Adana,Mağaza,Elektronik,49643.50,14009.85,4
+2024-10-01,Ankara,Online,Kitap & Ofis,2090.00,984.09,2
+2024-09-01,Bursa,Online,Kozmetik,4482.00,2608.28,2
+2024-01-01,İstanbul,Online,Elektronik,34819.00,9344.21,6
+2024-08-01,Bursa,Mağaza,Giyim,2244.00,1148.82,1
+2024-02-01,Adana,Mağaza,Giyim,440.00,254.86,1
+2024-04-01,Ankara,Online,Ev & Yaşam,1490.00,594.79,1
+2024-03-01,Ankara,Mağaza,Giyim,10990.00,5820.52,2
+2024-06-01,İstanbul,Online,Kitap & Ofis,4764.00,2041.42,7
+2024-01-01,İstanbul,Online,Ev & Yaşam,9711.00,3431.25,4
+2024-10-01,Kocaeli,Online,Kitap & Ofis,320.00,140.48,1
+2024-06-01,İzmir,Mağaza,Giyim,6888.00,3554.75,2
+2024-02-01,Trabzon,Mağaza,Kitap & Ofis,1600.00,755.40,1
+2024-04-01,İstanbul,Online,Kozmetik,2670.00,1615.08,3
+2024-01-01,Trabzon,Mağaza,Ev & Yaşam,2840.00,1038.52,2
+2024-06-01,Adana,Online,Kozmetik,200.00,116.98,1
+2024-11-01,Adana,Online,Ev & Yaşam,4830.00,577.89,2
+2024-07-01,Gaziantep,Mağaza,Giyim,627.00,333.74,1
+2024-03-01,Trabzon,Mağaza,Ev & Yaşam,2140.00,827.78,1
+2024-03-01,İstanbul,Mağaza,Elektronik,31326.00,10076.89,5
+2024-12-01,Bursa,Mağaza,Elektronik,19576.00,5590.66,3
+2024-12-01,Gaziantep,Mağaza,Elektronik,18060.00,4901.01,2
+2024-09-01,Kocaeli,Online,Kitap & Ofis,480.00,211.33,2
+2024-08-01,Kocaeli,Mağaza,Kozmetik,3240.00,2035.52,1
+2024-11-01,Konya,Mağaza,Elektronik,8968.00,872.14,2
+2024-04-01,Antalya,Mağaza,Giyim,1550.00,891.04,1
+2024-02-01,Trabzon,Mağaza,Kozmetik,3728.50,2152.34,2
+2024-03-01,Bursa,Mağaza,Ev & Yaşam,6200.00,2527.60,1
+2024-02-01,İzmir,Online,Ev & Yaşam,19920.00,8006.07,4
+2024-09-01,Gaziantep,Online,Kozmetik,567.00,331.08,1
+2024-02-01,Kocaeli,Online,Giyim,960.00,516.75,1
+2024-12-01,Gaziantep,Mağaza,Giyim,8350.00,4424.51,3
+2024-07-01,Adana,Mağaza,Ev & Yaşam,2042.50,662.95,1
+2024-11-01,Adana,Online,Giyim,3026.00,1184.50,3
+2024-08-01,Konya,Mağaza,Elektronik,30877.00,9547.89,4
+2024-01-01,Adana,Online,Ev & Yaşam,6660.00,2406.00,1
+2024-12-01,Antalya,Online,Elektronik,21074.50,6295.82,4
+2024-07-01,Adana,Mağaza,Giyim,2673.00,1440.99,1
+2024-03-01,Gaziantep,Mağaza,Ev & Yaşam,893.00,347.54,1
+2024-10-01,Antalya,Mağaza,Ev & Yaşam,330.00,122.60,1
+2024-09-01,Trabzon,Mağaza,Elektronik,20890.00,6672.14,3
+2024-05-01,Gaziantep,Online,Ev & Yaşam,1880.00,733.14,2
+2024-07-01,Gaziantep,Online,Ev & Yaşam,12821.00,4928.45,4
+2024-11-01,Bursa,Mağaza,Ev & Yaşam,846.00,304.76,1
+2024-07-01,Antalya,Online,Elektronik,26316.00,8168.37,6
+2024-01-01,Antalya,Online,Ev & Yaşam,3744.00,1164.32,1
+2024-07-01,Ankara,Mağaza,Kitap & Ofis,600.00,255.84,1
+2024-07-01,Bursa,Mağaza,Giyim,1400.00,785.56,1
+2024-09-01,Ankara,Online,Giyim,6880.00,3966.35,3
+2024-09-01,İzmir,Online,Giyim,6345.00,3377.13,4
+2024-12-01,Bursa,Online,Ev & Yaşam,1810.50,590.75,1
+2024-02-01,Konya,Online,Kitap & Ofis,722.00,311.76,1
+2024-12-01,Adana,Mağaza,Giyim,13200.00,7339.00,2
+2024-03-01,Trabzon,Online,Kitap & Ofis,360.00,158.92,1
+2024-01-01,Antalya,Online,Elektronik,12590.00,3864.94,2
+2024-09-01,Adana,Online,Kozmetik,880.00,546.34,1
+2024-11-01,Antalya,Online,Elektronik,2256.00,-345.68,1
+2024-04-01,İstanbul,Online,Kitap & Ofis,622.00,260.52,3
+2024-06-01,Kocaeli,Mağaza,Elektronik,12960.00,4309.08,2
+2024-06-01,Antalya,Online,Kozmetik,531.00,307.33,1
+2024-12-01,Kocaeli,Online,Ev & Yaşam,9583.00,3412.98,2
+2024-06-01,Kocaeli,Mağaza,Ev & Yaşam,9280.00,3436.80,2
+2024-06-01,İzmir,Online,Giyim,4438.00,2551.66,3
+2024-11-01,Bursa,Mağaza,Giyim,12872.00,5477.83,4
+2024-03-01,Bursa,Mağaza,Giyim,5082.50,2848.70,1
+2024-01-01,Ankara,Online,Elektronik,2660.00,705.35,1
+2024-09-01,Adana,Mağaza,Giyim,11000.00,6113.50,2
+2024-12-01,Adana,Mağaza,Elektronik,3750.00,1192.55,1
+2024-07-01,Antalya,Mağaza,Kozmetik,3000.00,1892.48,1
+2024-09-01,Adana,Online,Kitap & Ofis,600.00,277.76,1
+2024-01-01,Bursa,Mağaza,Ev & Yaşam,2720.00,957.28,1
+2024-12-01,Adana,Mağaza,Ev & Yaşam,3168.00,979.20,1
+2024-04-01,İzmir,Online,Kitap & Ofis,1120.00,550.84,1
+2024-11-01,Kocaeli,Mağaza,Elektronik,21231.00,2761.67,4
+2024-08-01,Gaziantep,Online,Ev & Yaşam,2168.00,766.70,2
+2024-08-01,İstanbul,Mağaza,Kitap & Ofis,330.00,143.56,1
+2024-10-01,Trabzon,Online,Giyim,1650.00,874.95,1
+2024-01-01,Antalya,Online,Giyim,16238.00,8691.10,4
+2024-02-01,Bursa,Mağaza,Giyim,6838.50,3600.26,2
+2024-03-01,Ankara,Online,Kitap & Ofis,720.00,330.64,1
+2024-11-01,Kocaeli,Online,Giyim,2288.00,1021.80,1
+2024-01-01,Bursa,Mağaza,Elektronik,28747.00,8645.15,2
+2024-08-01,Bursa,Mağaza,Elektronik,4750.00,1473.20,1
+2024-04-01,Adana,Online,Kitap & Ofis,40.00,18.82,1
+2024-10-01,Antalya,Mağaza,Giyim,272.00,130.57,1
+2024-10-01,Trabzon,Online,Elektronik,8180.00,2619.23,2
+2024-10-01,Ankara,Online,Kozmetik,4205.50,2430.81,2
+2024-01-01,İstanbul,Online,Giyim,4030.00,2170.41,2
+2024-05-01,İzmir,Online,Kitap & Ofis,648.00,240.48,1
+2024-08-01,Gaziantep,Mağaza,Kozmetik,180.00,105.84,1
+2024-11-01,Ankara,Mağaza,Kitap & Ofis,462.00,103.92,1
+2024-10-01,Ankara,Mağaza,Giyim,800.00,433.04,1
+2024-02-01,İstanbul,Mağaza,Ev & Yaşam,6104.50,2139.29,3
+2024-11-01,Ankara,Mağaza,Kozmetik,297.00,175.50,1
+2024-04-01,Antalya,Mağaza,Elektronik,15295.00,3936.75,1
+2024-08-01,Konya,Mağaza,Ev & Yaşam,15289.00,4932.13,2
+2024-04-01,İzmir,Online,Kozmetik,2700.00,1611.70,2
+2024-10-01,Gaziantep,Online,Kozmetik,2740.00,1597.81,3
+2024-11-01,Trabzon,Mağaza,Kitap & Ofis,448.00,117.62,1
+2024-09-01,Adana,Mağaza,Ev & Yaşam,6540.00,2291.40,1
+2024-07-01,Kocaeli,Mağaza,Kitap & Ofis,1350.00,611.35,1
+2024-02-01,İzmir,Online,Giyim,5918.00,3053.31,2
+2024-08-01,Gaziantep,Online,Elektronik,4890.00,1333.89,1
+2024-12-01,Antalya,Online,Ev & Yaşam,2326.00,818.68,2
+2024-10-01,Kocaeli,Mağaza,Elektronik,9420.00,3196.95,1
+2024-01-01,Adana,Online,Giyim,3643.00,1879.00,2
+2024-03-01,Trabzon,Mağaza,Giyim,5010.00,2858.46,1
+2024-04-01,Konya,Mağaza,Giyim,2033.00,1041.28,1
+2024-10-01,Kocaeli,Mağaza,Ev & Yaşam,1720.00,667.76,1
+2024-01-01,Trabzon,Mağaza,Giyim,882.00,472.20,1
+2024-02-01,Konya,Mağaza,Giyim,1254.00,684.56,1
+2024-11-01,Adana,Mağaza,Kozmetik,1296.00,699.42,1
+2024-01-01,Ankara,Online,Giyim,1750.00,931.00,1
+2024-12-01,Adana,Online,Giyim,1411.00,676.02,1
+2024-02-01,Konya,Online,Kozmetik,1216.00,684.66,1
+2024-12-01,Kocaeli,Online,Elektronik,15650.00,4442.30,1
+2024-04-01,Konya,Mağaza,Elektronik,8560.00,2540.40,1
+2024-03-01,Gaziantep,Mağaza,Giyim,765.00,342.03,1
+2024-04-01,Kocaeli,Mağaza,Kozmetik,720.00,435.44,1
+2024-04-01,Konya,Online,Kitap & Ofis,266.00,113.32,1
+2024-10-01,Antalya,Mağaza,Elektronik,8130.00,2627.52,1
+2024-07-01,İzmir,Online,Kitap & Ofis,1330.00,553.15,1
+2024-08-01,Gaziantep,Online,Giyim,2490.00,1423.23,1
+2024-11-01,İstanbul,Online,Giyim,42267.00,16614.74,16
+2024-06-01,Adana,Mağaza,Ev & Yaşam,9500.00,3520.20,2
+2024-06-01,Gaziantep,Mağaza,Ev & Yaşam,8250.00,3163.85,1
+2024-05-01,Ankara,Online,Ev & Yaşam,14628.50,5280.55,4
+2024-06-01,Konya,Mağaza,Giyim,414.00,205.62,1
+2024-05-01,Kocaeli,Online,Giyim,7622.00,4192.29,5
+2024-01-01,Gaziantep,Online,Ev & Yaşam,10950.00,3039.60,2
+2024-11-01,Ankara,Online,Ev & Yaşam,14378.00,2347.05,5
+2024-11-01,Ankara,Online,Giyim,7164.00,3169.42,5
+2024-09-01,Trabzon,Online,Giyim,10650.00,5944.24,3
+2024-11-01,Trabzon,Online,Kozmetik,2844.00,1589.48,1
+2024-02-01,Gaziantep,Mağaza,Giyim,5948.00,3123.48,2
+2024-04-01,Kocaeli,Online,Elektronik,6330.00,1797.58,3
+2024-05-01,Konya,Mağaza,Kozmetik,3930.00,2423.03,2
+2024-10-01,İzmir,Online,Kozmetik,2600.00,1560.10,2
+2024-08-01,İzmir,Online,Ev & Yaşam,20510.00,7195.09,5
+2024-12-01,Trabzon,Online,Giyim,6484.00,3686.46,3
+2024-11-01,İstanbul,Online,Elektronik,108993.00,11406.95,22
+2024-01-01,Kocaeli,Online,Giyim,12676.00,6736.14,3
+2024-12-01,İstanbul,Online,Kozmetik,10115.00,6066.37,9
+2024-08-01,Ankara,Mağaza,Elektronik,5887.00,1564.75,2
+2024-11-01,Ankara,Online,Elektronik,50008.00,4180.30,9
+2024-05-01,Ankara,Online,Elektronik,13693.50,2731.98,2
+2024-12-01,Ankara,Mağaza,Elektronik,42649.00,10873.39,5
+2024-07-01,Ankara,Online,Elektronik,69827.00,18565.99,9
+2024-12-01,Konya,Mağaza,Giyim,7630.00,4362.63,3
+2024-11-01,İstanbul,Online,Ev & Yaşam,54662.00,8272.66,19
+2024-11-01,İzmir,Mağaza,Kitap & Ofis,416.00,120.80,1
+2024-10-01,Konya,Online,Giyim,4104.00,2231.32,1
+2024-02-01,İstanbul,Online,Kozmetik,6825.00,4164.60,4
+2024-12-01,İstanbul,Mağaza,Giyim,26044.00,14370.23,5
+2024-12-01,İstanbul,Mağaza,Ev & Yaşam,34840.00,13635.28,7
+2024-01-01,İstanbul,Mağaza,Elektronik,23655.00,6400.75,5
+2024-12-01,Konya,Online,Kozmetik,4720.00,2822.35,3
+2024-05-01,İstanbul,Online,Kozmetik,6170.00,3668.41,4
+2024-01-01,Kocaeli,Online,Elektronik,1966.50,548.21,1
+2024-01-01,İstanbul,Mağaza,Giyim,12722.00,7045.37,4
+2024-10-01,İstanbul,Online,Kitap & Ofis,1763.00,756.96,3
+2024-06-01,Gaziantep,Mağaza,Elektronik,10838.00,2579.58,2
+2024-08-01,İzmir,Online,Elektronik,23380.00,7443.03,3
+2024-03-01,Bursa,Online,Elektronik,15680.00,4956.92,1
+2024-08-01,Bursa,Online,Ev & Yaşam,12396.00,4406.12,2
+2024-05-01,Trabzon,Online,Giyim,2831.00,1510.70,2
+2024-03-01,Bursa,Online,Ev & Yaşam,3689.00,1347.20,3
+2024-02-01,Adana,Online,Giyim,9878.00,5007.00,2
+2024-11-01,İzmir,Online,Kozmetik,1924.00,1033.15,3
+2024-09-01,Konya,Online,Ev & Yaşam,9280.00,3296.64,1
+2024-03-01,Bursa,Online,Giyim,4570.00,2558.11,2
+2024-11-01,İzmir,Online,Kitap & Ofis,1669.00,344.87,3
+2024-07-01,İstanbul,Mağaza,Giyim,900.00,482.91,1
+2024-07-01,İstanbul,Online,Kozmetik,5578.50,3130.99,4
+2024-10-01,İstanbul,Online,Kozmetik,11803.50,6919.04,6
+2024-09-01,Trabzon,Online,Ev & Yaşam,12317.50,4547.68,4
+2024-01-01,Gaziantep,Online,Giyim,7725.00,3886.75,2
+2024-04-01,İstanbul,Mağaza,Giyim,9732.50,5098.71,4
+2024-07-01,Konya,Online,Ev & Yaşam,9975.00,3274.52,2
+2024-08-01,Ankara,Online,Kozmetik,5032.00,2966.51,5
+2024-07-01,İstanbul,Mağaza,Ev & Yaşam,31789.50,12528.06,6
+2024-08-01,Kocaeli,Online,Elektronik,16185.00,4718.26,2
+2024-11-01,Antalya,Mağaza,Elektronik,9504.00,1718.88,2
+2024-07-01,Trabzon,Online,Kozmetik,918.00,482.61,1
+2024-11-01,Konya,Online,Giyim,11412.00,5127.34,4
+2024-12-01,İzmir,Mağaza,Kozmetik,1203.00,720.42,2
+2024-12-01,Ankara,Mağaza,Ev & Yaşam,10556.00,3620.02,3
+2024-04-01,İstanbul,Mağaza,Ev & Yaşam,11030.50,4140.22,5
+2024-05-01,Adana,Online,Elektronik,11495.00,3461.42,2
+2024-05-01,Ankara,Online,Giyim,17572.50,9383.83,6
+2024-04-01,İstanbul,Mağaza,Elektronik,23375.00,7137.02,4
+2024-01-01,Konya,Online,Kitap & Ofis,880.00,401.24,1
+2024-02-01,Ankara,Online,Kozmetik,1302.00,765.84,2
+2024-12-01,İzmir,Online,Kozmetik,4180.00,2515.06,3
+2024-06-01,Ankara,Mağaza,Elektronik,3895.00,1248.90,2
+2024-10-01,Konya,Mağaza,Giyim,4280.00,2465.08,1
+2024-12-01,Ankara,Mağaza,Giyim,4010.00,2248.88,2
+2024-06-01,Konya,Online,Ev & Yaşam,2100.00,844.11,1
+2024-04-01,Gaziantep,Online,Kozmetik,1282.50,769.40,1
+2024-05-01,İzmir,Mağaza,Elektronik,43655.00,11390.30,3
+2024-09-01,İzmir,Mağaza,Kozmetik,650.00,404.70,1
+2024-10-01,Trabzon,Mağaza,Kozmetik,560.00,336.91,1
+2024-03-01,Kocaeli,Mağaza,Ev & Yaşam,13182.00,4947.36,3
+2024-01-01,İstanbul,Mağaza,Ev & Yaşam,10732.00,4087.96,3
+2024-03-01,Antalya,Mağaza,Elektronik,8609.00,2381.94,3
+2024-07-01,İstanbul,Mağaza,Elektronik,9350.00,2905.68,3
+2024-03-01,Konya,Mağaza,Ev & Yaşam,3728.00,1222.22,3
+2024-08-01,Ankara,Mağaza,Ev & Yaşam,2422.50,967.77,1
+2024-05-01,Bursa,Online,Elektronik,9045.50,2718.15,4
+2024-01-01,Kocaeli,Online,Ev & Yaşam,880.00,370.76,1
+2024-06-01,Adana,Mağaza,Elektronik,18290.00,5941.62,2
+2024-05-01,Kocaeli,Online,Ev & Yaşam,7020.00,2847.75,3
+2024-11-01,Gaziantep,Online,Kozmetik,5038.00,2366.98,4
+2024-07-01,İstanbul,Online,Kitap & Ofis,5990.00,2825.74,6
+2024-09-01,İstanbul,Mağaza,Kitap & Ofis,1020.00,469.62,1
+2024-12-01,İstanbul,Online,Kitap & Ofis,5215.00,2305.65,8
+2024-07-01,Konya,Online,Elektronik,4880.00,1315.80,1
+2024-08-01,Ankara,Online,Kitap & Ofis,1971.00,893.40,3
+2024-08-01,Konya,Online,Kozmetik,6350.00,3801.45,3
+2024-08-01,Antalya,Mağaza,Giyim,8022.00,4373.16,2
+2024-10-01,Antalya,Online,Kozmetik,3655.00,1967.25,2
+2024-09-01,Antalya,Online,Kozmetik,2565.00,1514.97,1
+2024-05-01,Kocaeli,Online,Elektronik,24189.00,6568.68,3
+2024-03-01,Konya,Online,Elektronik,8280.00,2248.22,2
+2024-08-01,Antalya,Mağaza,Ev & Yaşam,18685.00,6549.25,2
+2024-05-01,Antalya,Online,Kozmetik,7027.50,4154.95,4
+2024-08-01,Bursa,Online,Elektronik,17235.00,3317.70,1
+2024-03-01,İzmir,Mağaza,Ev & Yaşam,15541.00,5463.62,4
+2024-03-01,Adana,Online,Ev & Yaşam,1100.00,456.67,2
+2024-06-01,Ankara,Mağaza,Ev & Yaşam,22231.50,6918.10,3
+2024-03-01,Konya,Online,Giyim,396.00,198.80,1
+2024-08-01,Antalya,Mağaza,Elektronik,6400.00,2089.36,2
+2024-05-01,Ankara,Mağaza,Elektronik,17539.50,5680.04,3
+2024-01-01,İzmir,Mağaza,Kozmetik,500.00,305.45,1
+2024-02-01,İzmir,Mağaza,Ev & Yaşam,8100.00,2375.90,1
+2024-05-01,Ankara,Mağaza,Ev & Yaşam,14374.50,5488.58,4
+2024-05-01,Ankara,Mağaza,Giyim,11500.00,6527.55,2
+2024-05-01,Adana,Online,Giyim,8430.00,4771.95,2
+2024-05-01,İstanbul,Online,Kitap & Ofis,2430.00,955.25,3
+2024-12-01,Konya,Mağaza,Ev & Yaşam,1729.00,681.06,1
+2024-12-01,Kocaeli,Mağaza,Kozmetik,836.00,504.72,2
+2024-03-01,İzmir,Online,Kitap & Ofis,399.00,171.48,1
+2024-10-01,İzmir,Mağaza,Kitap & Ofis,300.00,134.75,1
+2024-08-01,İzmir,Mağaza,Giyim,3975.00,2098.35,3
+2024-04-01,Antalya,Online,Ev & Yaşam,20058.00,6857.38,4
+2024-11-01,Konya,Online,Elektronik,15953.00,-27.20,2
+2024-04-01,Antalya,Online,Giyim,7680.00,4416.48,2
+2024-01-01,İzmir,Online,Kozmetik,123.50,72.29,1
+2024-03-01,Adana,Online,Giyim,6980.00,3917.00,3
+2024-03-01,Konya,Online,Ev & Yaşam,2000.00,818.16,1
+2024-08-01,İzmir,Mağaza,Elektronik,6090.00,1937.80,2
+2024-05-01,Adana,Online,Ev & Yaşam,8900.00,3565.80,1
+2024-03-01,Antalya,Mağaza,Giyim,3295.00,1664.29,2
+2024-01-01,Ankara,Mağaza,Giyim,5061.00,2573.40,2
+2024-10-01,Konya,Online,Elektronik,22140.00,7046.93,2
+2024-03-01,Adana,Mağaza,Kitap & Ofis,513.00,219.15,1
+2024-08-01,İzmir,Mağaza,Ev & Yaşam,2580.00,955.50,1
+2024-04-01,Gaziantep,Mağaza,Kozmetik,1720.00,1050.40,1
+2024-02-01,İzmir,Mağaza,Elektronik,7638.00,2224.50,1
+2024-05-01,İstanbul,Mağaza,Kitap & Ofis,480.00,222.46,1
+2024-05-01,Adana,Mağaza,Kozmetik,1640.00,1009.42,1
+2024-07-01,Trabzon,Online,Kitap & Ofis,297.00,112.56,1
+2024-05-01,Trabzon,Online,Elektronik,21960.00,6775.72,2
+2024-05-01,Konya,Online,Giyim,1817.00,975.64,2
+2024-01-01,Gaziantep,Online,Elektronik,9656.00,2321.07,2
+2024-04-01,Gaziantep,Online,Kitap & Ofis,840.00,378.99,1
+2024-03-01,İzmir,Mağaza,Elektronik,710.00,211.87,1
+2024-05-01,İstanbul,Mağaza,Kozmetik,2370.00,1427.96,2
+2024-05-01,İzmir,Mağaza,Giyim,1460.00,776.56,1
+2024-02-01,Ankara,Online,Kitap & Ofis,260.00,127.40,1
+2024-10-01,Bursa,Mağaza,Elektronik,9690.00,3184.08,1
+2024-10-01,İzmir,Mağaza,Kozmetik,1360.00,813.80,1
+2024-12-01,İstanbul,Mağaza,Elektronik,52334.00,14507.07,9
+2024-10-01,Konya,Mağaza,Elektronik,9306.00,2410.58,3
+2024-11-01,Konya,Online,Ev & Yaşam,9034.00,1929.49,3
+2024-12-01,Trabzon,Online,Elektronik,5220.00,1795.34,1
+2024-09-01,Konya,Mağaza,Ev & Yaşam,1280.00,477.40,1
+2024-08-01,Ankara,Mağaza,Giyim,5001.00,2825.77,4
+2024-03-01,Kocaeli,Mağaza,Giyim,9027.50,5200.08,2
+2024-06-01,Bursa,Online,Kozmetik,1840.00,1117.44,1
+2024-07-01,Ankara,Online,Ev & Yaşam,5001.00,1946.62,2
+2024-02-01,Gaziantep,Mağaza,Ev & Yaşam,4100.00,1722.12,1
+2024-07-01,Ankara,Online,Giyim,4730.00,2531.46,2
+2024-11-01,Bursa,Online,Kozmetik,1440.00,782.80,1
+2024-02-01,İzmir,Mağaza,Giyim,1530.00,882.42,2
+2024-03-01,Antalya,Mağaza,Ev & Yaşam,3360.00,1417.30,1
+2024-06-01,Adana,Mağaza,Giyim,2500.00,1372.60,1
+2024-03-01,Konya,Mağaza,Elektronik,3383.00,681.32,1
+2024-05-01,Konya,Online,Elektronik,9392.50,1831.08,2
+2024-11-01,Antalya,Mağaza,Giyim,7304.00,2365.02,3
+2024-12-01,Antalya,Mağaza,Kozmetik,2600.00,1582.48,1
+2024-02-01,İstanbul,Online,Kitap & Ofis,2665.00,1195.34,2
+2024-08-01,Adana,Online,Ev & Yaşam,11412.00,3596.88,2
+2024-06-01,Antalya,Mağaza,Kitap & Ofis,702.00,272.31,1
+2024-03-01,Adana,Online,Elektronik,5320.00,1654.04,1
+2024-04-01,Kocaeli,Online,Ev & Yaşam,1530.00,437.82,1
+2024-12-01,Konya,Online,Kitap & Ofis,306.00,117.66,1
+2024-06-01,Ankara,Mağaza,Giyim,3360.00,1802.61,1
+2024-10-01,Konya,Online,Ev & Yaşam,5130.00,2150.22,1
+2024-01-01,Ankara,Mağaza,Elektronik,3860.00,1097.15,1
+2024-02-01,Gaziantep,Mağaza,Elektronik,18857.50,4738.85,1
+2024-04-01,İzmir,Mağaza,Kitap & Ofis,480.00,205.34,1
+2024-12-01,İzmir,Online,Kitap & Ofis,204.00,76.98,1
+2024-09-01,Konya,Mağaza,Elektronik,1970.00,639.53,1
+2024-08-01,Bursa,Online,Giyim,1220.00,666.59,1
+2024-04-01,Antalya,Online,Elektronik,10200.00,3216.90,1
+2024-09-01,İzmir,Mağaza,Kitap & Ofis,420.00,205.46,1
+2024-11-01,İzmir,Mağaza,Kozmetik,1008.00,414.48,1
+2024-04-01,Bursa,Mağaza,Kitap & Ofis,520.00,220.16,1
+2024-11-01,Trabzon,Online,Kitap & Ofis,210.00,44.22,1
+2024-12-01,Kocaeli,Mağaza,Kitap & Ofis,380.00,169.15,1
+2024-10-01,Bursa,Mağaza,Ev & Yaşam,1990.00,755.52,1
+2024-09-01,İstanbul,Mağaza,Kozmetik,480.00,299.05,1
+2024-03-01,Kocaeli,Mağaza,Elektronik,6460.00,883.24,1
+2024-02-01,İstanbul,Online,Ev & Yaşam,35107.50,13541.11,4
+2024-09-01,İstanbul,Mağaza,Elektronik,62490.00,19380.19,11
+2024-08-01,Ankara,Mağaza,Kitap & Ofis,1713.00,723.22,2
+2024-08-01,Trabzon,Online,Elektronik,9396.00,1960.32,2
+2024-09-01,Bursa,Mağaza,Giyim,4560.00,2447.24,1
+2024-12-01,İstanbul,Online,Elektronik,77901.00,20436.49,11
+2024-07-01,Adana,Online,Elektronik,26200.00,7265.25,2
+2024-12-01,Konya,Online,Giyim,2574.00,1280.84,1
+2024-12-01,Gaziantep,Online,Ev & Yaşam,10705.50,3995.25,3
+2024-01-01,Konya,Mağaza,Giyim,7300.00,3853.80,1
+2024-11-01,İstanbul,Online,Kozmetik,3465.00,1883.43,4
+2024-12-01,İstanbul,Online,Giyim,43257.00,23255.35,16
+2024-12-01,Gaziantep,Online,Elektronik,12000.00,3874.35,2
+2024-05-01,Adana,Mağaza,Ev & Yaşam,9675.00,2856.40,1
+2024-10-01,İstanbul,Online,Ev & Yaşam,55572.00,20989.63,14
+2024-04-01,İstanbul,Mağaza,Kozmetik,7555.00,4419.89,5
+2024-11-01,İzmir,Mağaza,Giyim,7130.00,2986.52,3
+2024-07-01,Kocaeli,Online,Giyim,4730.00,2608.93,2
+2024-10-01,İstanbul,Online,Giyim,26552.50,14386.41,6
+2024-09-01,İzmir,Mağaza,Giyim,7159.00,3827.70,4
+2024-11-01,İzmir,Online,Elektronik,15801.00,2017.63,4
+2024-05-01,İstanbul,Mağaza,Giyim,11854.00,6461.99,6
+2024-11-01,Gaziantep,Online,Ev & Yaşam,18765.00,4294.64,5
+2024-11-01,Konya,Online,Kozmetik,2646.00,959.19,2
+2024-07-01,İstanbul,Online,Elektronik,90660.00,27990.47,10
+2024-02-01,Ankara,Online,Ev & Yaşam,11952.00,4661.69,4
+2024-11-01,Gaziantep,Mağaza,Giyim,4766.00,1197.61,3
+2024-05-01,İzmir,Mağaza,Kozmetik,5186.00,3077.19,2
+2024-02-01,Gaziantep,Online,Giyim,6850.00,3960.70,1
+2024-05-01,İstanbul,Online,Ev & Yaşam,17213.50,6181.02,5
+2024-05-01,İstanbul,Mağaza,Elektronik,19021.00,5356.83,5
+2024-07-01,İstanbul,Online,Giyim,15282.50,8189.53,5
+2024-12-01,İzmir,Mağaza,Giyim,8148.00,4440.33,2
+2024-03-01,İzmir,Mağaza,Kitap & Ofis,1080.00,463.08,1
+2024-11-01,Gaziantep,Online,Giyim,12570.00,4585.88,6
+2024-07-01,Adana,Online,Giyim,10287.00,5388.48,4
+2024-02-01,İstanbul,Online,Giyim,7378.00,4157.06,4
+2024-09-01,Antalya,Online,Giyim,3580.00,1927.02,2
+2024-02-01,Antalya,Online,Elektronik,18380.00,5177.12,2
+2024-04-01,Antalya,Online,Kozmetik,4050.00,2487.55,1
+2024-08-01,Ankara,Online,Elektronik,16165.00,3973.60,2
+2024-11-01,Trabzon,Online,Ev & Yaşam,12666.00,1522.35,4
+2024-11-01,Gaziantep,Mağaza,Elektronik,5679.00,1058.22,2
+2024-11-01,İzmir,Online,Giyim,15966.00,5897.82,6
+2024-06-01,Gaziantep,Online,Giyim,4470.00,2495.79,1
+2024-12-01,İzmir,Mağaza,Ev & Yaşam,22065.50,8050.51,7
+2024-11-01,Bursa,Online,Giyim,4762.00,1507.85,3
+2024-07-01,Kocaeli,Online,Ev & Yaşam,5160.00,1886.36,1
+2024-08-01,Adana,Mağaza,Giyim,710.00,409.81,1
+2024-06-01,Konya,Mağaza,Kozmetik,799.00,422.42,1
+2024-08-01,Antalya,Mağaza,Kozmetik,2920.00,1799.24,1
+2024-09-01,İzmir,Mağaza,Elektronik,11790.00,3454.08,3
+2024-11-01,Bursa,Online,Ev & Yaşam,14200.00,1758.67,5
+2024-10-01,İstanbul,Online,Elektronik,65041.00,19909.97,14
+2024-11-01,İstanbul,Online,Kitap & Ofis,3513.00,832.17,8
+2024-08-01,Konya,Online,Ev & Yaşam,9094.50,3116.61,3
+2024-12-01,İzmir,Mağaza,Elektronik,10403.50,2980.82,3
+2024-12-01,İstanbul,Online,Ev & Yaşam,36065.50,12826.55,6
+2024-07-01,Kocaeli,Online,Elektronik,3686.00,866.56,1
+2024-09-01,İzmir,Mağaza,Ev & Yaşam,2820.00,1091.07,1
+2024-02-01,Gaziantep,Online,Ev & Yaşam,3520.00,1235.80,1
+2024-12-01,Konya,Online,Ev & Yaşam,11132.50,3509.70,2
+2024-05-01,İstanbul,Online,Elektronik,46535.50,13505.03,8
+2024-11-01,Ankara,Online,Kozmetik,1206.00,693.96,1
+2024-12-01,Gaziantep,Online,Giyim,513.00,271.47,1
+2024-12-01,Ankara,Mağaza,Kozmetik,6304.50,3687.11,4
+2024-07-01,Bursa,Online,Giyim,22071.00,12104.63,3
+2024-12-01,İzmir,Online,Ev & Yaşam,26466.00,10224.65,5
+2024-01-01,İzmir,Online,Giyim,4434.00,2442.39,2
+2024-06-01,Gaziantep,Online,Ev & Yaşam,12141.50,4331.89,3
+2024-04-01,Bursa,Mağaza,Elektronik,8516.00,2345.19,5
+2024-01-01,Ankara,Mağaza,Kitap & Ofis,1203.00,491.80,4
+2024-01-01,İstanbul,Mağaza,Kitap & Ofis,2988.00,1291.84,3
+2024-05-01,Konya,Online,Kozmetik,2800.00,1654.25,2
+2024-12-01,Antalya,Mağaza,Ev & Yaşam,1314.00,477.24,1
+2024-11-01,Gaziantep,Mağaza,Ev & Yaşam,3797.00,1.37,2
+2024-09-01,İstanbul,Mağaza,Giyim,4806.00,2652.33,4
+2024-09-01,İstanbul,Mağaza,Ev & Yaşam,3831.50,1505.40,3
+2024-02-01,Ankara,Online,Giyim,2100.00,1213.08,1
+2024-01-01,İzmir,Mağaza,Ev & Yaşam,9055.00,3160.82,4
+2024-09-01,Antalya,Online,Elektronik,26369.00,6002.84,4
+2024-07-01,İstanbul,Online,Ev & Yaşam,17613.50,6206.90,6
+2024-11-01,İzmir,Mağaza,Elektronik,11179.00,1701.44,3
+2024-12-01,Trabzon,Online,Kozmetik,1921.50,1080.44,3
+2024-06-01,Gaziantep,Online,Elektronik,6000.00,1781.40,1
+2024-04-01,İzmir,Mağaza,Giyim,2960.00,1650.20,1
+2024-12-01,Konya,Mağaza,Kozmetik,1050.00,658.98,1
+2024-10-01,İzmir,Online,Giyim,13068.00,7035.29,4
+2024-06-01,Bursa,Online,Ev & Yaşam,16370.00,6598.90,3
+2024-12-01,İzmir,Online,Giyim,23489.00,12212.63,10
+2024-04-01,İzmir,Mağaza,Elektronik,14479.00,4133.69,3
+2024-01-01,Konya,Online,Giyim,8228.00,4082.03,2
+2024-05-01,Ankara,Online,Kozmetik,2052.00,1184.92,1
+2024-07-01,Trabzon,Online,Giyim,4750.00,2736.65,1
+2024-05-01,İstanbul,Mağaza,Ev & Yaşam,39090.00,13926.86,6
+2024-11-01,İzmir,Mağaza,Ev & Yaşam,10384.00,2030.28,2
+2024-10-01,İzmir,Online,Elektronik,18869.50,5748.57,3
+2024-11-01,Trabzon,Online,Giyim,10273.00,3708.45,5
+2024-10-01,İzmir,Online,Ev & Yaşam,10570.00,3584.44,2
+2024-03-01,Antalya,Online,Ev & Yaşam,4700.00,1878.20,1
+2024-02-01,Ankara,Online,Elektronik,19771.00,6147.96,3
+2024-05-01,Antalya,Online,Giyim,15110.00,8638.14,3
+2024-10-01,Antalya,Online,Ev & Yaşam,3720.00,1445.56,2
+2024-06-01,Antalya,Mağaza,Giyim,10010.00,5403.33,3
+2024-02-01,İstanbul,Online,Elektronik,15203.50,3639.42,5
+2024-07-01,İzmir,Mağaza,Ev & Yaşam,8210.00,3319.04,2
+2024-05-01,İstanbul,Online,Giyim,22105.00,12042.08,8
+2024-03-01,Antalya,Online,Elektronik,14691.00,4039.90,3
+2024-01-01,İzmir,Online,Ev & Yaşam,8450.00,3090.98,2
+2024-05-01,Antalya,Online,Ev & Yaşam,6345.00,2147.37,1
+2024-12-01,Konya,Online,Elektronik,18680.00,4951.18,4
+2024-07-01,İstanbul,Mağaza,Kozmetik,2290.00,1377.99,2
+2024-01-01,İzmir,Mağaza,Giyim,171.00,86.97,1
+2024-03-01,Konya,Online,Kitap & Ofis,790.50,297.93,1
+2024-08-01,Adana,Mağaza,Elektronik,20640.00,6485.74,2
+2024-03-01,Antalya,Mağaza,Kitap & Ofis,360.00,172.83,1
+2024-04-01,Gaziantep,Online,Ev & Yaşam,1134.00,367.92,1
+2024-04-01,Gaziantep,Online,Giyim,5420.00,2957.92,2
+2024-06-01,Konya,Online,Kozmetik,1120.00,649.96,1
+2024-12-01,İstanbul,Mağaza,Kitap & Ofis,1040.00,432.28,2
+2024-08-01,Konya,Online,Giyim,12925.00,6724.92,2
+2024-10-01,Bursa,Mağaza,Kitap & Ofis,170.00,74.73,1
+2024-10-01,Konya,Online,Kozmetik,3300.00,1935.65,1
+2024-02-01,Antalya,Online,Giyim,4260.00,2359.36,2
+2024-05-01,Konya,Mağaza,Elektronik,2360.00,652.45,1
+2024-07-01,Trabzon,Online,Elektronik,6583.50,1535.34,1
+2024-06-01,Trabzon,Online,Giyim,6920.00,3720.56,1
+2024-07-01,Ankara,Online,Kitap & Ofis,328.00,142.82,2
+2024-03-01,İzmir,Online,Giyim,1913.00,1091.08,2
+2024-01-01,Trabzon,Online,Ev & Yaşam,4250.00,1742.89,2
+2024-01-01,Konya,Mağaza,Elektronik,2300.00,626.62,1
+2024-01-01,Konya,Mağaza,Ev & Yaşam,8755.00,2486.45,1
+2024-04-01,Kocaeli,Online,Kozmetik,3174.00,1744.90,2
+2024-05-01,Bursa,Online,Kozmetik,1936.00,1103.66,2
+2024-11-01,Gaziantep,Online,Elektronik,26324.00,404.92,5
+2024-05-01,İzmir,Mağaza,Kitap & Ofis,360.00,162.98,1
+2024-12-01,İzmir,Online,Elektronik,11898.00,2398.92,3
+2024-12-01,Antalya,Mağaza,Giyim,2106.00,1006.80,1
+2024-10-01,İzmir,Mağaza,Ev & Yaşam,11495.00,3859.80,1
+2024-08-01,Ankara,Online,Giyim,3910.00,2129.34,2
+2024-01-01,Gaziantep,Online,Kozmetik,2932.50,1656.00,1
+2024-08-01,Ankara,Online,Ev & Yaşam,11100.00,4601.79,2
+2024-01-01,İzmir,Mağaza,Elektronik,5650.00,1708.60,1
+2024-11-01,Bursa,Online,Elektronik,7868.00,-265.84,1
+2024-11-01,İzmir,Online,Ev & Yaşam,13112.00,1305.66,4
+2024-01-01,İstanbul,Mağaza,Kozmetik,1280.00,742.80,1
+2024-06-01,Ankara,Mağaza,Kozmetik,790.00,468.40,1
+2024-07-01,Bursa,Online,Ev & Yaşam,13935.00,4597.63,2
+2024-12-01,Kocaeli,Mağaza,Ev & Yaşam,3400.00,954.55,1
+2024-07-01,İzmir,Mağaza,Elektronik,2610.00,696.81,1
+2024-12-01,İstanbul,Mağaza,Kozmetik,2980.00,1774.68,2
+2024-07-01,Adana,Online,Ev & Yaşam,9650.00,3534.77,2
+2024-03-01,Antalya,Online,Giyim,10060.00,5449.42,3
+2024-02-01,Gaziantep,Online,Elektronik,42095.00,12991.80,5
+2024-06-01,Bursa,Online,Giyim,1650.00,947.00,1
+2024-05-01,Trabzon,Online,Kozmetik,2920.00,1751.52,1
+2024-11-01,Konya,Online,Kitap & Ofis,189.00,42.66,1
+2024-04-01,Trabzon,Mağaza,Giyim,2010.00,1082.04,1
+2024-04-01,İstanbul,Mağaza,Kitap & Ofis,2702.00,1239.32,6
+2024-05-01,Antalya,Online,Elektronik,4680.00,1551.72,1
+2024-08-01,Konya,Online,Elektronik,12640.00,4023.48,2
+2024-06-01,Ankara,Mağaza,Kitap & Ofis,1320.00,577.22,2
+2024-12-01,Kocaeli,Mağaza,Elektronik,17060.00,5693.66,2
+2024-06-01,Trabzon,Online,Elektronik,2460.50,599.78,1
+2024-10-01,Antalya,Online,Elektronik,11130.00,3548.97,1
+2024-11-01,Trabzon,Online,Elektronik,13031.00,2901.38,2
+2024-08-01,İzmir,Online,Kozmetik,1654.00,1008.70,2
+2024-07-01,İzmir,Mağaza,Giyim,3030.00,1672.08,2
+2024-03-01,İzmir,Mağaza,Kozmetik,842.50,504.65,2
+2024-05-01,Ankara,Online,Kitap & Ofis,1300.00,582.20,1
+2024-12-01,Antalya,Mağaza,Elektronik,12400.00,3515.48,1
+2024-03-01,Antalya,Mağaza,Kozmetik,2810.00,1742.42,2
+2024-09-01,Antalya,Online,Ev & Yaşam,5712.00,1763.79,1
+2024-01-01,Kocaeli,Online,Kozmetik,130.00,81.50,1
+2024-04-01,Trabzon,Mağaza,Ev & Yaşam,4760.00,1904.16,1
+2024-10-01,Konya,Online,Kitap & Ofis,1100.00,496.20,1
+2024-02-01,Antalya,Mağaza,Elektronik,12100.00,3838.10,1
+2024-06-01,Antalya,Mağaza,Ev & Yaşam,3895.00,1453.55,1
+2024-11-01,Ankara,Online,Kitap & Ofis,1040.00,331.00,1
+2024-04-01,Antalya,Online,Kitap & Ofis,864.00,319.76,1
+2024-09-01,Konya,Mağaza,Kozmetik,171.00,102.40,1
+2024-10-01,Antalya,Online,Giyim,4830.00,2701.83,3
+2024-12-01,Ankara,Mağaza,Kitap & Ofis,350.00,152.20,1
+2024-05-01,Ankara,Mağaza,Kozmetik,988.00,564.28,1
+2024-05-01,Adana,Online,Kitap & Ofis,280.00,132.15,1
+2024-05-01,Bursa,Online,Kitap & Ofis,450.00,202.68,1
+2024-06-01,Antalya,Mağaza,Elektronik,4842.00,1259.88,1
+2024-07-01,Ankara,Online,Kozmetik,4450.00,2621.55,1
+2024-08-01,Adana,Mağaza,Ev & Yaşam,1881.00,592.78,1
+2024-06-01,Bursa,Online,Elektronik,2870.00,827.05,1
+2024-08-01,Adana,Online,Kozmetik,450.00,277.09,1
+2024-03-01,Konya,Mağaza,Kitap & Ofis,130.00,55.33,1
