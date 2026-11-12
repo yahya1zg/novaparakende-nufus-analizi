@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "source_rows": 2000,
+  "independent_excel_net_sales": "7206829.00",
+  "independent_excel_gross_profit": "2525740.32",
+  "distinct_customer_ids": 728,
+  "negative_gross_profit_rows_retained": 32,
+  "dbt_models": 6,
+  "dbt_tests_passed": 20,
+  "source_sha256": "683abce27529b7dd7522af109c8ed430e97ead72fc2165a43fe01def0d4ca352",
+  "population_rows": 10,
+  "population_total": 41775761,
+  "browser_visual_QA": "Not completed: Windows Computer Use could not verify current browser URL."
+}
