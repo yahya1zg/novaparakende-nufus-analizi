@@ -237,11 +237,7 @@ py -3.12 -m venv .venv
 - YBS305 İş Zekâsı ve Veri Madenciliği, 2026–2027 Güz ders el kitabı ve ders kapsamında verilen satış dosyası.
 - TÜİK, 2024 ADNKS il nüfusları. Kaynak kaydı: `data/external/KAYNAK.md`.
 
-**Yapay zekâ desteği**
 
-İlk proje taslağı, SQL, Python ve JavaScript kodları ile açıklama metinlerinde OpenAI Codex desteği kullanıldı. Ayrıntılar `docs/AKADEMIK_YARDIM.md` dosyasındadır.
-
----
 
 <div align="center">
 
