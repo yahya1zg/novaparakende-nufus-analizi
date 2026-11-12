@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="900" viewBox="0 0 1700 900" role="img" aria-labelledby="title desc"><title id="title">NovaPerakende veri akışı</title><desc id="desc">Ham satış stg_satis modeline, il nüfusu stg_nufus modeline gider. stg_satis hem fct_satis hem dim_sehir modellerini besler. stg_nufus dim_sehir modelini besler. fct_satis aylık ve şehir performans martlarını, dim_sehir şehir performans martını besler. Her iki mart dashboard çıktısına gider.</desc>
+<rect x='0' y='0' width='1700' height='900' rx='0' fill='#F2F6F8' stroke='none' stroke-width='1.2'/>
+<rect x='0' y='0' width='1700' height='9' rx='0' fill='#087F83' stroke='none' stroke-width='1.2'/>
+<text x='48' y='54' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#087F83'>NOVAPERAKENDE  /  2024</text>
+<text x='48' y='108' font-family='Segoe UI, Arial, sans-serif' font-size='40' font-weight='700' fill='#183746'>Veriden içgörüye</text>
+<text x='50' y='146' font-family='Segoe UI, Arial, sans-serif' font-size='21' font-weight='400' fill='#526E7D'>Satış ve nüfus verilerinden karşılaştırmalı il performansına uzanan analiz akışı</text>
+<rect x='48' y='190' width='300' height='544' rx='19' fill='#FFFFFF' stroke='#D9E3E9' stroke-width='1.2'/>
+<rect x='65' y='212' width='38' height='32' rx='8' fill='#41677D' stroke='none' stroke-width='1.2'/>
+<text x='72' y='233' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#FFFFFF'>01</text>
+<text x='114' y='236' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#183746'>Veri kaynakları</text>
+<text x='66' y='277' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#6B8391'>Girdi dosyaları</text>
+<rect x='374' y='190' width='300' height='544' rx='19' fill='#FFFFFF' stroke='#D9E3E9' stroke-width='1.2'/>
+<rect x='391' y='212' width='38' height='32' rx='8' fill='#377DA8' stroke='none' stroke-width='1.2'/>
+<text x='398' y='233' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#FFFFFF'>02</text>
+<text x='440' y='236' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#183746'>Hazırlama</text>
+<text x='392' y='277' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#6B8391'>Staging modelleri</text>
+<rect x='700' y='190' width='300' height='544' rx='19' fill='#FFFFFF' stroke='#D9E3E9' stroke-width='1.2'/>
+<rect x='717' y='212' width='38' height='32' rx='8' fill='#087F83' stroke='none' stroke-width='1.2'/>
+<text x='724' y='233' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#FFFFFF'>03</text>
+<text x='766' y='236' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#183746'>Veri ambarı</text>
+<text x='718' y='277' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#6B8391'>Olgu ve boyut modelleri</text>
+<rect x='1026' y='190' width='300' height='544' rx='19' fill='#FFFFFF' stroke='#D9E3E9' stroke-width='1.2'/>
+<rect x='1043' y='212' width='38' height='32' rx='8' fill='#7863A6' stroke='none' stroke-width='1.2'/>
+<text x='1050' y='233' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#FFFFFF'>04</text>
+<text x='1092' y='236' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#183746'>Analiz tabloları</text>
+<text x='1044' y='277' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#6B8391'>Mart modelleri</text>
+<rect x='1352' y='190' width='300' height='544' rx='19' fill='#FFFFFF' stroke='#D9E3E9' stroke-width='1.2'/>
+<rect x='1369' y='212' width='38' height='32' rx='8' fill='#183746' stroke='none' stroke-width='1.2'/>
+<text x='1376' y='233' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='700' fill='#FFFFFF'>05</text>
+<text x='1418' y='236' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#183746'>Görselleştirme</text>
+<text x='1370' y='277' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#6B8391'>Karar desteği</text>
+<polyline points='332,360 390,360' fill='none' stroke='#41677D' stroke-width='2.5' stroke-linejoin='round'/><polygon points='390,360 381,355 381,365' fill='#41677D'/>
+<polyline points='332,620 390,620' fill='none' stroke='#41677D' stroke-width='2.5' stroke-linejoin='round'/><polygon points='390,620 381,615 381,625' fill='#41677D'/>
+<polyline points='658,360 716,360' fill='none' stroke='#377DA8' stroke-width='2.5' stroke-linejoin='round'/><polygon points='716,360 707,355 707,365' fill='#377DA8'/>
+<polyline points='658,392 687,392 687,588 716,588' fill='none' stroke='#377DA8' stroke-width='2.5' stroke-linejoin='round'/><polygon points='716,588 707,583 707,593' fill='#377DA8'/>
+<polyline points='658,620 716,620' fill='none' stroke='#377DA8' stroke-width='2.5' stroke-linejoin='round'/><polygon points='716,620 707,615 707,625' fill='#377DA8'/>
+<polyline points='984,360 1042,360' fill='none' stroke='#087F83' stroke-width='2.5' stroke-linejoin='round'/><polygon points='1042,360 1033,355 1033,365' fill='#087F83'/>
+<polyline points='984,392 1013,392 1013,588 1042,588' fill='none' stroke='#087F83' stroke-width='2.5' stroke-linejoin='round'/><polygon points='1042,588 1033,583 1033,593' fill='#087F83'/>
+<polyline points='984,620 1042,620' fill='none' stroke='#087F83' stroke-width='2.5' stroke-linejoin='round'/><polygon points='1042,620 1033,615 1033,625' fill='#087F83'/>
+<polyline points='1310,360 1339,360 1339,462 1368,462' fill='none' stroke='#7863A6' stroke-width='2.5' stroke-linejoin='round'/><polygon points='1368,462 1359,457 1359,467' fill='#7863A6'/>
+<polyline points='1310,620 1339,620 1339,528 1368,528' fill='none' stroke='#7863A6' stroke-width='2.5' stroke-linejoin='round'/><polygon points='1368,528 1359,523 1359,533' fill='#7863A6'/>
+<rect x='64' y='300' width='268' height='120' rx='14' fill='#EAF1F5' stroke='#41677D' stroke-width='1.2'/>
+<rect x='81' y='320' width='4' height='27' rx='2' fill='#41677D' stroke='none' stroke-width='1.2'/>
+<text x='96' y='340' font-family='Segoe UI, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>Ham satış</text>
+<text x='84' y='377' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>perakende_satis.xlsx</text>
+<text x='84' y='401' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>2.000 kayıt · 2024</text>
+<rect x='64' y='560' width='268' height='120' rx='14' fill='#EAF1F5' stroke='#41677D' stroke-width='1.2'/>
+<rect x='81' y='580' width='4' height='27' rx='2' fill='#41677D' stroke='none' stroke-width='1.2'/>
+<text x='96' y='600' font-family='Segoe UI, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>İl nüfusu</text>
+<text x='84' y='637' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>TÜİK ADNKS · KASTABİL</text>
+<text x='84' y='661' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>10 il · 2024 yıl sonu</text>
+<rect x='390' y='300' width='268' height='120' rx='14' fill='#EAF4FB' stroke='#377DA8' stroke-width='1.2'/>
+<rect x='407' y='320' width='4' height='27' rx='2' fill='#377DA8' stroke='none' stroke-width='1.2'/>
+<text x='422' y='340' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>stg_satis</text>
+<text x='410' y='377' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Metin temizliği</text>
+<text x='410' y='401' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Veri türü dönüşümleri</text>
+<rect x='390' y='560' width='268' height='120' rx='14' fill='#EAF4FB' stroke='#377DA8' stroke-width='1.2'/>
+<rect x='407' y='580' width='4' height='27' rx='2' fill='#377DA8' stroke='none' stroke-width='1.2'/>
+<text x='422' y='600' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>stg_nufus</text>
+<text x='410' y='637' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>İl ve nüfus hazırlama</text>
+<text x='410' y='661' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>İl + yıl eşleştirmesi</text>
+<rect x='716' y='300' width='268' height='120' rx='14' fill='#E7F5F3' stroke='#087F83' stroke-width='1.2'/>
+<rect x='733' y='320' width='4' height='27' rx='2' fill='#087F83' stroke='none' stroke-width='1.2'/>
+<text x='748' y='340' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>fct_satis</text>
+<text x='736' y='377' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Satış işlemleri</text>
+<text x='736' y='401' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Net satış ve brüt kâr</text>
+<rect x='716' y='560' width='268' height='120' rx='14' fill='#E7F5F3' stroke='#087F83' stroke-width='1.2'/>
+<rect x='733' y='580' width='4' height='27' rx='2' fill='#087F83' stroke='none' stroke-width='1.2'/>
+<text x='748' y='600' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>dim_sehir</text>
+<text x='736' y='637' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Şehir boyutu</text>
+<text x='736' y='661' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>İl ve nüfus bilgileri</text>
+<rect x='1042' y='300' width='268' height='120' rx='14' fill='#F0EDFA' stroke='#7863A6' stroke-width='1.2'/>
+<rect x='1059' y='320' width='4' height='27' rx='2' fill='#7863A6' stroke='none' stroke-width='1.2'/>
+<text x='1074' y='340' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>mart_aylik_satis</text>
+<text x='1062' y='377' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Aylık satış özeti</text>
+<text x='1062' y='401' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>Dönemsel performans</text>
+<rect x='1042' y='560' width='268' height='120' rx='14' fill='#F0EDFA' stroke='#7863A6' stroke-width='1.2'/>
+<rect x='1059' y='580' width='4' height='27' rx='2' fill='#7863A6' stroke='none' stroke-width='1.2'/>
+<text x='1074' y='600' font-family='Consolas, Arial, sans-serif' font-size='19' font-weight='700' fill='#183746'>mart_sehir_performans</text>
+<text x='1062' y='637' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>İllere göre satış</text>
+<text x='1062' y='661' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#4B6575'>1.000 kişi başına satış</text>
+<rect x='1368' y='420' width='268' height='150' rx='16' fill='#183746' stroke='none' stroke-width='1.2'/>
+<text x='1390' y='469' font-family='Segoe UI, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Dashboard</text>
+<text x='1390' y='505' font-family='Segoe UI, Arial, sans-serif' font-size='17' font-weight='400' fill='#D2E7EB'>Filtreler ve karşılaştırmalar</text>
+<text x='1390' y='536' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#A8DCDD'>HTML + JavaScript</text>
+<text x='1388' y='616' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='400' fill='#526E7D'>Çevrimdışı kullanım</text>
+<rect x='48' y='765' width='1604' height='91' rx='16' fill='#E3F1EF' stroke='none' stroke-width='1.2'/>
+<text x='70' y='798' font-family='Segoe UI, Arial, sans-serif' font-size='15' font-weight='700' fill='#087F83'>VERİ KALİTESİ</text>
+<text x='70' y='832' font-family='Segoe UI, Arial, sans-serif' font-size='23' font-weight='700' fill='#183746'>6 dbt modeli · 20 veri testi</text>
+<text x='690' y='819' font-family='Segoe UI, Arial, sans-serif' font-size='21' font-weight='400' fill='#345F67'>İl ve yıl eşleşmesi · Kayıt bütünlüğü · Tutar tutarlılığı</text>
+<text x='50' y='883' font-family='Segoe UI, Arial, sans-serif' font-size='15' font-weight='400' fill='#6B8391'>Doğrulama bilgisi: teslim paketindeki sonuçlara göre.</text>
+</svg>
