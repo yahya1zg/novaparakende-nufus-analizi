@@ -1,1 +1,0 @@
-# novaparakende-nufus-analizi
