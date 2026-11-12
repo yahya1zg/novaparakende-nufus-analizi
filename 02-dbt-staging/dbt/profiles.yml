@@ -1,7 +1,0 @@
-nova_nufus:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: "{{ env_var('NOVA_DB_PATH', '../warehouse/nova.duckdb') }}"
-      threads: 1
