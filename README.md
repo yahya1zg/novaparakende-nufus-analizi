@@ -229,6 +229,7 @@ py -3.12 -m venv .venv
 | Hamza Uzçirci | `030423031` | [huzcirci](https://github.com/huzcirci) | Dashboard |
 | Muhammed Yahya Yıldırım | `030422026` | [yahya1z](https://github.com/yahya1z) | dbt-staging |
 | Eren Keskin | `030423047` | erenks1638 | Rapor teslim |
+| Emin Yetiş | '030423030' |  | Destek Üye |
 
 ## Kaynakça ve akademik şeffaflık
 
